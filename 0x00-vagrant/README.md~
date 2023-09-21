@@ -1,0 +1,1 @@
+The function of uname when run without any option
